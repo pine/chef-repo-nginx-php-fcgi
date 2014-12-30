@@ -28,3 +28,6 @@ Try to access by your browser.
 - nginx
 - PHP 5
 - spawn-fcgi
+
+## License
+Public Domain
