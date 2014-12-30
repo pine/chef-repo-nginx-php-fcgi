@@ -1,0 +1,7 @@
+{
+  "name": "common",
+  "run_list": [
+    "git",
+    "vim"
+  ]
+}

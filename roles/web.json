@@ -1,0 +1,10 @@
+{
+  "name": "web",
+  "run_list": [
+    "nginx",
+    "php",
+    "spawn-fcgi",
+    "php-spawn-fcgi",
+    "nginx-php-fcgi-default-site"
+  ]
+}
